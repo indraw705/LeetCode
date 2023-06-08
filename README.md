@@ -14,7 +14,8 @@ A brief description of your project.
 
 
 - Feature : Solved Problems from Leetcode Challanges
-- Built in : ![Alt text]("https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fpython-logo%2F&psig=AOvVaw1vg5xcRQhbpTvdAFee2RJV&ust=1686301524365000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjb1uyos_8CFQAAAAAdAAAAABAE")
+- Built in : ![image](https://github.com/indraw705/LeetCode/assets/13429596/ff79ddef-2390-4a38-ad73-1478d255d411)
+
 ## Installation
 
 
