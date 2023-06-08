@@ -1,7 +1,24 @@
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/indrajit-narvekar-84256652/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://twitter.com/indraw705" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/indraw705" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/indraw705" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
+
 # LeetCode
-
-
-A brief description of your project.
+[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 
 ## Table of Contents
 - [Features](#features)
@@ -14,7 +31,7 @@ A brief description of your project.
 
 
 - Feature : Solved Problems from Leetcode Challanges
-- Built in : ![image](https://github.com/indraw705/LeetCode/assets/13429596/ff79ddef-2390-4a38-ad73-1478d255d411)
+- Built in : IoLogoPython
 
 ## Installation
 
@@ -37,6 +54,6 @@ Fork the repository.
 3. Push to the branch: `git push origin feature/your-feature`
 4. Submit a pull request.
 
-##License
+## License
 
 This project is licensed under the BeWithFinance License.
