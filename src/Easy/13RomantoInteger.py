@@ -37,3 +37,4 @@ print(obj.romanToInt("LVIII"))   # 58
 print(obj.romanToInt("MCMXCIV"))   #1994
 print(obj.romanToInt("DCCV"))   #705
 print(obj.romanToInt("MCCCXII"))  #1312
+print(obj.romanToInt("MCCV"))
