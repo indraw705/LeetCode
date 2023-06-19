@@ -10,6 +10,6 @@ class Solution:
 
 
 obj = Solution()
-print(obj.plusOne([1,2,3]))  # 3
-print(obj.plusOne([4,3,2,1]))   # 58
-print(obj.plusOne([9]))   #1994
+print(obj.plusOne([1,2,3]))
+print(obj.plusOne([4,3,2,1]))
+print(obj.plusOne([9]))
