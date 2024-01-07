@@ -17,5 +17,5 @@ class Solution(object):
         return out.strip()
 
 obj = Solution()
-print(obj.discountPrices("there are $1 $2 and 5$ candies in the shop", 50))
-print(obj.discountPrices("$2$3 $10 $100 $1 200 $33 33$ $$ $99 $99999 $9999999999", 0))
+print(obj.discountPrices("there are $1  and 5$ candies in the shop", 50))
+print(obj.discountPrices("$2$3 $10 $100$2 $1 200 $33 33$ $$ $99 $99999 $9999999999", 0))

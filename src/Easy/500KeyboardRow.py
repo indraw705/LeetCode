@@ -1,6 +1,5 @@
 from typing import List
 
-
 class Solution:
     def check_keyboard(word, lane):
         for i in word:
